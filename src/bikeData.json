@@ -1,16 +1,5 @@
 [
   {
-    "id": "blaze-200",
-    "name": "Blaze 200",
-    "feature_1_image": "https://wolfclassified.github.io/cradiac-bikes/assets/bike-1-charac.svg",
-    "bicycle_image": "https://wolfclassified.github.io/cradiac-bikes/assets/bike-1.svg",
-    "feature_2_image": "https://wolfclassified.github.io/cradiac-bikes/assets/bike-1-charac-2.svg",
-    "actualPrice": 11499.00,
-    "discountedPrice": 36250.00,
-    "type": ["Mountain", "Bestseller"],
-    "description": "Blaze 200 is a powerful mountain bike designed for rugged terrains. It features a solid frame and advanced suspension to ensure smooth, stable rides through rocky paths and uphill climbs."
-  },
-  {
     "id": "thunder-x",
     "name": "Thunder X",
     "feature_1_image": "https://wolfclassified.github.io/cradiac-bikes/assets/bike-2-charac-1.svg",
