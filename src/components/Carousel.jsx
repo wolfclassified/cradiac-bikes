@@ -35,7 +35,7 @@ const BicycleCarousel = () => {
           <Link to={`/details/${bike.id}`}>
           <div key={index} className="bg-white text-black p-4 rounded-lg transition-transform duration-300 hover:scale-105 shadow-md">
             <h3 className="text-[30px] font-bold text-center mb-2">{bike.name}</h3>
-            <img src={`${import.meta.env.BASE_URL}${bike.feature_1_image}`} alt="Feature" className="mx-auto mb-2" />
+            <img src={bike.feature_1_image} alt="Feature" className="mx-auto mb-2" />
             <img src={bike.bicycle_image} alt={bike.name} className="mx-auto mb-2" />
             <img src={bike.feature_2_image} alt="Feature" className="mx-auto mb-2" />
           </div>

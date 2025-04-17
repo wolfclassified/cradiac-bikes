@@ -2,9 +2,9 @@
   {
     "id": "blaze-200",
     "name": "Blaze 200",
-    "feature_1_image": "assets/bike-1-charac.svg",
-    "bicycle_image": "assets/bike-1.svg",
-    "feature_2_image": "assets/bike-1-charac-2.svg",
+    "feature_1_image": "https://wolfclassified.github.io/cradiac-bikes/assets/bike-1-charac.svg",
+    "bicycle_image": "/assets/bike 1.svg",
+    "feature_2_image": "/assets/bike 1 charac 2.svg",
     "actualPrice": 11499.00,
     "discountedPrice": 36250.00,
     "type": ["Mountain", "Bestseller"],
