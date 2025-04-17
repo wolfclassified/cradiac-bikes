@@ -27,6 +27,7 @@ const BicycleCarousel = () => {
       <h2 className="text-[40px] font-bold leading-[1.1] pb-[15px]" style={{ fontFamily: "'Manrope', sans-serif" }}>
             Uncover <br />
             <em className="text-[#8DC63F]">Cradiac Collection</em>
+            <img src="/assets/bike-1-charac.svg" alt="Direct Test" />
      </h2>
       </div>
 
