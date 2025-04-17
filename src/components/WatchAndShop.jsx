@@ -5,7 +5,7 @@ const WatchAndShop = () => {
     { id: 1, path: '/details/daily-slick', videoSrc: "https://wolfclassified.github.io/cradiac-bikes/assets/video1.mp4"},
     { id: 2, path: '/details/rapid-commute', videoSrc: "https://wolfclassified.github.io/cradiac-bikes/assets/video2.mp4" },
     { id: 3, path: '/details/velvet-ride', videoSrc: "https://wolfclassified.github.io/cradiac-bikes/assets/video3.mp4"},
-    { id: 4, path: '/details/pace-trail-cx', videoSrc: "https://wolfclassified.github.io/cradiac-bikes/assets/video4.mp4"},
+    { id: 4, path: '/details/pace-trail-cx', videoSrc: "https://wolfclassified.github.io/cradiac-bikes/assets/video4.mp4"}, 
   ];
 
   return (
